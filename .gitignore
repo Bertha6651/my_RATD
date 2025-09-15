@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Data / models / logs
+save/
+data/electricity_nips
+data/TCN
+TCN/training/
+*.pt
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
